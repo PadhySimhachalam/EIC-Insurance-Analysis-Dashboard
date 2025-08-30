@@ -1,7 +1,7 @@
 EIC Insurance Analysis Dashboard
 ---------------------------------------------------------
 
-An interactive, analytical Power BI dashboard built to analyze and visualize the performance of EIC, a motor insurance company that operated between 2014–2018and eventually shut down in 2019 due to consistent financial losses.  
+An interactive, analytical Power BI dashboard built to analyze and visualize the performance of EIC, a motor insurance company that operated between 2014–2018 and eventually shut down in 2019 due to consistent financial losses.  
 The dashboard uncovers trends, patterns, and contributing factorsto their decline.  
 
 Tech Stack  
